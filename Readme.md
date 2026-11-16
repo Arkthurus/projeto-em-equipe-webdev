@@ -6,4 +6,4 @@ Ao fazer uma contribuição, tenha certeza de seguir os passos que disponibilize
 https://drive.google.com/file/d/1nd_dpWymhoam5D-WWzxQO5Z5Pzdfxpcs/view?usp=drive_link
 
 # Site:
-[https://apenasolinco.github.io/projeto-em-equipe-webdev/index.html](https://arkthurus.github.io/projeto-em-equipe-webdev/index.html)
+[https://arkthurus.github.io/projeto-em-equipe-webdev/index.html](https://arkthurus.github.io/projeto-em-equipe-webdev/index.html)
